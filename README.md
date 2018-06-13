@@ -1,0 +1,1 @@
+Example project for article on how to integrate Firebase, GTM and GA.
